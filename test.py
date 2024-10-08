@@ -1,1 +1,1 @@
-print("Bhaaag Bhaghoda!! v1")
+prit("Bhaaag Bhaghoda!! v1")
